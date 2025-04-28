@@ -150,31 +150,5 @@ int main()
 	obj.build_tree();
 	return 0;
 }
-/*-------------output---------------
-Optimal Binary Search Tree
-Enter the number of nodes 4
-Enter the data as…
-a[1] 1
-a[2] 2
-a[3] 3
-a[4] 4
-p[1] 3
-p[2]3
-p[3]1
-p[4]1
-q[0]2
-q[1]3
-q[2]1
-q[3]1
-q[4]1
-The Optimal Binary Search Tree For the Given Node Is…
-The Root of this OBST is ::2
-The Cost of this OBST is::32
-NODE LEFT CHILD RIGHT CHILD
-2 1 3
-1
-3 4
-4
---------------------*/
 
 
